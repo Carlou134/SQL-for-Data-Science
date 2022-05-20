@@ -147,6 +147,14 @@ WHERE colum_name operator value;
 ![OPERATORS](operator.png "Operators")
 
 
+Ejemplo Where:
+
+```SQL
+SELECT ProductName, UnitPrice, SupplierID
+FROM Products
+WHERE ProductName = 'Tofu';
+```
+
 #### LIMIT
 
 ```SQL
