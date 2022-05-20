@@ -36,6 +36,12 @@ Populares
 - SQL Lite
 - NoSQL --> No relacional
 
+Trabajos que pueden usar SQL en su trabajo
+--
+
+Data Scientist
+
+
 ---
 
 **Tablas**: Listas estructuradas de elementos de datos
@@ -100,9 +106,9 @@ Otros:
 ![UML](UML.png "UML")
 ![CROWS](CROWS.png "Crow's Foot Notation")
 
-Clave principal: Columna o conjuntos de columnas cuyos valores identifican de forma única cada fila de la tabla.
+Clave principal/Primary Key: Columna o conjuntos de columnas cuyos valores identifican de forma única cada fila de la tabla. En cada columna no se acepta valores duplicados
 
-Claves externas:
+Claves externas/Foreign Key: identifica una columna o grupo de columnas en una tabla que se refiere a una columna o grupo de columnas en otra tabla.
 
 
 
